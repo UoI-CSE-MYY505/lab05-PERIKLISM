@@ -14,7 +14,7 @@ Add a few more tests in lab05.s to verify the correct operation of a 5-stage pip
 
 ## Files to work on
 * `lab05.s` 
-* `README.md` to add your name
+* `README.md` PERIKLIS BOURLIS 5523
       
 ## Running 
 * To run the program interactively, start Ripes and load lab05.s
